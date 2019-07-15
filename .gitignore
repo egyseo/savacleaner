@@ -3,6 +3,7 @@
 /wp-content/*
 !/wp-content/themes
 !/wp-content/plugins
+!/wp-content/uploads
 /wp-content/themes/index.php
 /wp-content/themes/twenty*
 !.gitignore
