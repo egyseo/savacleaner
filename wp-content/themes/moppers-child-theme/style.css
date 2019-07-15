@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Moppers Child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Moppers Child Theme
+ Author:       SviRom
+ Template:     moppers
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  -
+ Text Domain:  moppers
+ Domain Path: /languages
+*/
+
+.nav__main .nav__list a {
+  text-transform: uppercase;
+}
