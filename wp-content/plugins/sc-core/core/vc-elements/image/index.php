@@ -1,0 +1,6 @@
+<?php
+/**
+ *  slcr WordPress Theme 
+ * 
+ **/
+ ?>

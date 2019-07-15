@@ -1,0 +1,20 @@
+/*
+Theme Name: Moppers Child
+Theme URI: http://slashcreative.co
+Author: SlashCreative 
+Template: moppers
+Author URI: https://themeforest.net/user/slashcreative
+Description: A premium niche theme designed for businesses operating in the house cleaning and any other services related to the cleaning industry.
+License: Themeforest Split Licence
+License URI: - 
+Version: 1.0
+Domain Path: /languages
+*/ 
+
+.nav__list a {
+  text-transform: uppercase;
+}
+body {
+  margin: 20px!important;
+  background:black;
+}
