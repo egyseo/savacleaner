@@ -7,3 +7,4 @@
 /wp-content/themes/index.php
 /wp-content/themes/twenty*
 !.gitignore
+!savacleanerdb.sql

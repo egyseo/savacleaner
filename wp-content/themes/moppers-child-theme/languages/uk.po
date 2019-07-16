@@ -1,0 +1,4399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: moppers\n"
+"POT-Creation-Date: 2019-07-16 14:29+0300\n"
+"PO-Revision-Date: 2019-07-16 14:30+0300\n"
+"Last-Translator: \n"
+"Language-Team: SlashCreative\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ../../moppers\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_attr__\n"
+"X-Poedit-SearchPath-0: template-parts/search.php\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: comments.php:33
+msgid " Comments"
+msgstr "Коментарі"
+
+#: comments.php:33
+msgid " Comment"
+msgstr "Коментар"
+
+#: custom-header.php:151 home.php:167
+msgid "Home"
+msgstr "Головна"
+
+#: searchform-main.php:17 searchform-main.php:21 searchform.php:17
+#: searchform.php:21 template-parts/main/head.php:364
+#: template-parts/main/head.php:713
+msgid "Search"
+msgstr "Пошук"
+
+#: slcr-framework/acf/slcr-footer-options.php:17
+msgid "Footer Options"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:21
+msgid "Custom Footer Logo"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:24
+msgid "Upload a logo to use custom footer logo for the specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:31
+#: slcr-framework/acf/slcr-header-navigation.php:41
+#: slcr-framework/redux/section/slcr-header-navigation.php:44
+msgid "Logo Height"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:34
+msgid ""
+"Change the height of logo in footer  for this specific page. \"Example - 30px"
+"\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:45
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:158
+msgid "Background Type "
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:48
+#: slcr-framework/acf/slcr-page-header.php:92
+#: slcr-framework/redux/section/slcr-page-header.php:39
+msgid "Background Type"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:50
+#: slcr-framework/acf/slcr-footer-options.php:168
+#: slcr-framework/acf/slcr-header-navigation.php:102
+#: slcr-framework/acf/slcr-header-navigation.php:117
+#: slcr-framework/acf/slcr-header-navigation.php:143
+#: slcr-framework/acf/slcr-header-navigation.php:171
+#: slcr-framework/acf/slcr-header-navigation.php:186
+#: slcr-framework/acf/slcr-header-navigation.php:201
+#: slcr-framework/acf/slcr-header-navigation.php:246
+#: slcr-framework/acf/slcr-header-navigation.php:261
+#: slcr-framework/acf/slcr-page-header.php:201
+#: slcr-framework/acf/slcr-page-header.php:216
+#: slcr-framework/acf/slcr-page-header.php:232
+msgid "Default From Theme Options"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:51
+#: slcr-framework/acf/slcr-page-header.php:98
+msgid "Image"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:52
+#: slcr-framework/acf/slcr-page-header.php:99
+msgid "Color"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:60
+#: slcr-framework/redux/section/slcr-page-header.php:51
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:178
+msgid "Background Image"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:63
+msgid "Use custom background image for this page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:81
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:84
+msgid ""
+"Adjust the background overlay opacity from 0 to 10. Higher the value, darker "
+"the color."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:106
+#: slcr-framework/acf/slcr-page-header.php:108
+#: slcr-framework/redux/section/slcr-footer-settings.php:108
+#: slcr-framework/redux/section/slcr-page-header.php:75
+msgid "Overlay Color"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:109
+msgid "Use custom color for footer background overlay."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:125
+msgid "Footer Background Color - Main Footer"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:128
+msgid "Pick a color to use as background color for main footer."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:144
+msgid "Footer Background Color - Copyright Footer"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:147
+msgid "Pick a color to use as background color for copyright footer."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:163
+#: slcr-framework/acf/slcr-page-header.php:196
+#: slcr-framework/redux/section/slcr-page-header.php:91
+msgid "Content Scheme"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:166
+msgid ""
+"Set the page footer content scheme according to the background color "
+"selection."
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:169
+#: slcr-framework/acf/slcr-header-navigation.php:248
+#: slcr-framework/acf/slcr-header-navigation.php:263
+msgid "light"
+msgstr ""
+
+#: slcr-framework/acf/slcr-footer-options.php:170
+#: slcr-framework/acf/slcr-header-navigation.php:247
+#: slcr-framework/acf/slcr-header-navigation.php:262
+msgid "dark"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:17
+msgid "Header Nav "
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:21
+msgid "Custom Header Logo"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:24
+msgid ""
+"Upload a logo here to use a custom logo in header navigation for this "
+"specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:31
+msgid "Custom sticky Header Logo"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:34
+msgid ""
+"Upload a logo here to use a custom sticky logo in header navigation for this "
+"specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:44
+msgid ""
+"Change the height of logo in header navigation for this specific page. "
+"\"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:55
+msgid "Logo Height - Mobile"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:58
+msgid ""
+"Change the height of logo on mobile view in header navigation for this "
+"specific page. \"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:69
+#: slcr-framework/redux/section/slcr-header-navigation.php:59
+#: slcr-framework/redux/section/slcr-page-header.php:24
+msgid "Header Height"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:72
+msgid "Change the height of header for this specific page.  \"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:83
+#: slcr-framework/redux/section/slcr-header-navigation.php:67
+msgid "Header Height - Mobile"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:86
+msgid "Change the height of header on mobile view. \"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:97
+#: slcr-framework/redux/section/slcr-header-navigation.php:118
+msgid "Sticky on Scroll"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:100
+msgid ""
+"Use this option to make header navigation sticked to top while scrolling."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:103
+#: slcr-framework/acf/slcr-header-navigation.php:118
+#: slcr-framework/acf/slcr-header-navigation.php:172
+#: slcr-framework/acf/slcr-header-navigation.php:187
+#: slcr-framework/acf/slcr-page-header.php:26
+#: slcr-framework/acf/slcr-page-header.php:83
+#: slcr-framework/acf/slcr-post-settings.php:172
+msgid "On"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:104
+#: slcr-framework/acf/slcr-header-navigation.php:119
+#: slcr-framework/acf/slcr-header-navigation.php:173
+#: slcr-framework/acf/slcr-header-navigation.php:188
+#: slcr-framework/acf/slcr-page-header.php:27
+#: slcr-framework/acf/slcr-page-header.php:84
+#: slcr-framework/acf/slcr-post-settings.php:173
+msgid "Off"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:112
+#: slcr-framework/redux/section/slcr-header-navigation.php:125
+msgid "Sticky on Scroll - Mobile"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:115
+msgid "Keep header sticky on mobile view."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:138
+msgid "Sticky Header Shadow"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:141
+msgid "Change the shadow depth for Sticky header navigation"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:144
+#: slcr-framework/acf/slcr-header-navigation.php:202
+msgid "None"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:145
+#: slcr-framework/acf/slcr-header-navigation.php:203
+#: slcr-framework/acf/slcr-post-settings.php:120
+#: slcr-framework/acf/slcr-post-settings.php:136
+msgid "Small"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:146
+#: slcr-framework/acf/slcr-header-navigation.php:204
+#: slcr-framework/acf/slcr-post-settings.php:121
+msgid "Medium"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:147
+#: slcr-framework/acf/slcr-header-navigation.php:205
+#: slcr-framework/acf/slcr-post-settings.php:122
+#: slcr-framework/acf/slcr-post-settings.php:137
+msgid "Large"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:166
+#: slcr-framework/redux/section/slcr-header-navigation.php:91
+msgid "Absolute Header"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:169
+msgid "Make the header absolute positioned."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:181
+msgid "Absolute Header - Mobile"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:184
+msgid "Keep this option on mobile view."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:196
+msgid "Header shadow"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:199
+msgid "Change the shadow depth for header navigation"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:213
+#: slcr-framework/redux/section/slcr-header-navigation.php:74
+msgid "Header Background Color"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:216
+msgid ""
+"Change the background color for header navigation. Paste HEX, RGB or "
+"Gradient CSS here. "
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:227
+msgid "Sticky Header Background Color"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:230
+msgid ""
+"Change the background color for sticky header navigation. Paste HEX, RGB or "
+"Gradient CSS here. "
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:241
+msgid "Header Content Scheme"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:244
+msgid ""
+"Change the content scheme for header navigation according to the background "
+"color selection."
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:256
+msgid "Sticky Header Content Scheme"
+msgstr ""
+
+#: slcr-framework/acf/slcr-header-navigation.php:259
+msgid ""
+"Change the content scheme for Sticky header navigation according to the "
+"background color selection."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:17
+#: slcr-framework/redux/section/slcr-page-header.php:15
+msgid "Page Header"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:21
+msgid "Page Header Visibility"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:24
+msgid "Hide or show the visibility of page header for the specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:35
+msgid "Page Title"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:38
+msgid "Use custom title for the page. Default title is the name of the page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:49
+#: slcr-framework/redux/section/slcr-footer-settings.php:45
+msgid "Description"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:52
+msgid "Write a small description under the title of the page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:63
+msgid "Page Header Height"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:66
+msgid "Change the height of the page header. \"Example - 200px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:77
+#: slcr-framework/redux/section/slcr-page-header.php:32
+msgid "Breadcrumbs"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:80
+msgid "Enable or disable breadcrumbs for the specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:82
+#: slcr-framework/acf/slcr-page-header.php:97
+#: slcr-framework/acf/slcr-post-settings.php:119
+#: slcr-framework/acf/slcr-post-settings.php:135
+#: slcr-framework/acf/slcr-post-settings.php:156
+#: slcr-framework/acf/slcr-post-settings.php:171
+#: slcr-framework/acf/slcr-post-settings.php:186
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:95
+msgid "Select a background type for the page header."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:100
+msgid "Gradient"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:111
+msgid ""
+"Use custom color as image overlay. Upload the feature image to use as "
+"background image of page header."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:127
+#: slcr-framework/redux/section/slcr-page-header.php:82
+msgid "Overlay Opacity"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:130
+msgid ""
+"Adjust the overlay opacity of background overlay from 0 to 10. Higher the "
+"value, darker the shade."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:152
+#: slcr-framework/redux/section/slcr-page-header.php:59
+msgid "Background Color"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:155
+msgid "Change the background color of page header for this specific page."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:171
+msgid "Gradient CSS"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:174
+msgid ""
+"Enter the gradient CSS to use as page header background. Example - linear-"
+"gradient( 135deg, #F97794 10%, #623AA2 100%)"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:199
+msgid ""
+"Set the page header content scheme according to the background color "
+"selection."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:202
+msgid "Dark"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:203
+msgid "Light"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:211
+msgid "Content Alignment - Vertical"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:214
+msgid "Align the page header content vertically."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:217
+msgid "Top"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:218
+msgid "Bottom"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:219
+msgid "Middle"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:227
+msgid "Content Alignment - Horizontal"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:230
+msgid "Align the page header content horizontally."
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:233
+msgid "left"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:234
+msgid "right"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-header.php:235
+msgid "center"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-options.php:17
+msgid "Page Options"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-options.php:21
+msgid "Main Content Padding - Top"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-options.php:24
+msgid ""
+"Change padding of the main content \"between header and footer\" from the "
+"top. \"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-options.php:35
+msgid "Main Content Padding - Bottom"
+msgstr ""
+
+#: slcr-framework/acf/slcr-page-options.php:38
+msgid ""
+"Change padding of the main content \"between header and footer\" from the "
+"bottom. \"Example - 20px\""
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:17
+#, fuzzy
+#| msgid "Posts by "
+msgid "Post Type Link"
+msgstr "Опубліковано "
+
+#: slcr-framework/acf/slcr-post-settings.php:21
+msgid "External Post Link"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:24
+msgid "Paste any external link here to attach a \"URL\" to the blog post."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:60
+msgid "Post Type Video"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:64
+msgid "Video URL"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:67
+msgid ""
+"Simply paste any video URL from Youtube, Vimeo or any Self-Hosted Video to "
+"attach a video to the post."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:104
+msgid "Post Settings"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:108
+msgid "Blog Card Layout"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:114
+msgid "Blog Card Size - Type 1"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:117
+msgid ""
+"Change the blog card size for this specific type. This will effect only when "
+"Type 1 is selected in Theme Options."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:130
+msgid "Blog Card Size - Type 2"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:133
+msgid ""
+"Change the blog card size for this specific type. This will effect only when "
+"Type 2 is selected in Theme Options."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:145
+msgid "Blog Post Page"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:151
+#: slcr-framework/redux/section/slcr-blog-settings.php:133
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:56
+msgid "Sidebar"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:154
+msgid "Enable or disable the sidebar for this post."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:157
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "Enable"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:158
+msgid "Disable"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:166
+msgid "Feature Image Visibility"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:169
+msgid "Use the option to hide or show feature image on the specific blog post."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:181
+msgid "Feature Image Type"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:184
+msgid "Change the layout of feature image on the specific blog post."
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:187
+msgid "Full Width"
+msgstr ""
+
+#: slcr-framework/acf/slcr-post-settings.php:188
+msgid "Contained"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Встановити обов'язкові плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:337
+#, fuzzy, php-format
+#| msgid "Install Plugins"
+msgid "Installing Plugin: %s"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:392
+#, fuzzy
+#| msgid "Install Required Plugins"
+msgid "Return to Required Plugins Installer"
+msgstr "Встановити обов'язкові плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:393
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:912
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2618
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3676
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:394
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3255
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:1019
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2575
+#, fuzzy
+#| msgid "Install Plugins"
+msgid "Installed version:"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2688
+#, fuzzy, php-format
+#| msgid "Install Plugins"
+msgid "Install %2$s"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2802
+#, fuzzy
+#| msgid "Install Plugins"
+msgid "Install"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3254
+msgid "Plugin activation failed."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "An error occurred while installing %1$s: "
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3603
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3605
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3613
+msgid "Show Details"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3605
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3613
+msgid "Hide Details"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3606
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3611
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3614
+msgid "All installations have been completed."
+msgstr ""
+
+#: slcr-framework/extensions/plugin-activation/class-tgm-plugin-activation.php:3616
+#, fuzzy, php-format
+#| msgid "Install Plugins"
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Встановити плагіни"
+
+#: slcr-framework/front/slcr-comment.php:95
+#: template-parts/main/comment-form.php:21
+msgid "Write a comment"
+msgstr ""
+
+#: slcr-framework/front/slcr-front.php:69
+msgid "404"
+msgstr ""
+
+#: slcr-framework/front/slcr-front.php:70
+msgid "Something's Wrong"
+msgstr "Щось пішло не так"
+
+#: slcr-framework/front/slcr-front.php:71
+msgid "This page is missing or you assembled the link incorrectly."
+msgstr ""
+"Сторінку не знайдено. Можливо, вона видалена або було введено неправильну "
+"адресу."
+
+#: slcr-framework/front/slcr-front.php:72
+msgid "Go Back Home"
+msgstr "Назад до Головної"
+
+#: slcr-framework/front/slcr-single-post.php:147
+msgid " Posted - "
+msgstr "Опубліковано - "
+
+#: slcr-framework/front/slcr-single-post.php:184
+msgid "Prev"
+msgstr "Попер"
+
+#: slcr-framework/front/slcr-single-post.php:191
+#: slcr-framework/slcr-helper.php:202
+msgid "Next"
+msgstr "Наст"
+
+#: slcr-framework/front/slcr-single-post.php:287
+#: template-parts/blog-layout/ajax-layout-one.php:234
+#: template-parts/blog-layout/ajax-layout-two.php:76
+#: template-parts/blog-layout/archive-layout.php:224
+#: template-parts/blog-layout/layout-one.php:239
+#: template-parts/blog-layout/layout-two.php:80 template-parts/search.php:249
+msgid "Posts by "
+msgstr "Опубліковано "
+
+#: slcr-framework/front/slcr-single-post.php:287
+#: template-parts/blog-layout/ajax-layout-one.php:234
+#: template-parts/blog-layout/ajax-layout-two.php:76
+#: template-parts/blog-layout/archive-layout.php:224
+#: template-parts/blog-layout/layout-one.php:239
+#: template-parts/blog-layout/layout-two.php:80 template-parts/search.php:249
+msgid "author"
+msgstr ""
+
+#: slcr-framework/front/slcr-single-post.php:292
+msgid "Visit Website"
+msgstr ""
+
+#: slcr-framework/front/slcr-single-post.php:318
+msgid "Tags"
+msgstr "Теги"
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:15
+msgid "Blog Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:17
+#: slcr-framework/redux/section/slcr-blog-settings.php:24
+msgid "Blog pages and posts settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:22
+msgid "Blog General Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:31
+msgid "Blog Cards Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:32
+msgid "Select the type of blog cards."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:33
+msgid "Default type is Type 1"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:49
+#: slcr-framework/redux/section/slcr-blog-settings.php:80
+msgid "Blog Layout"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:50
+#: slcr-framework/redux/section/slcr-blog-settings.php:81
+msgid "Select a layout for your blog page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:51
+#: slcr-framework/redux/section/slcr-blog-settings.php:82
+#: slcr-framework/redux/section/slcr-footer-settings.php:336
+#: slcr-framework/redux/section/slcr-footer-settings.php:366
+msgid "Default layout is 1 Column"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:103
+#: slcr-framework/redux/section/slcr-blog-settings.php:250
+msgid "Blog Pagination"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:104
+msgid "Select a pagination type for blog posts."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:114
+msgid "Featured Image Visibility"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:115
+msgid "Hide / Show feature image on blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:121
+msgid "Featured Image Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:123
+msgid "Select a type of feature image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:134
+msgid "Enable or disable the sidebar on single post page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:140
+msgid "Sidebar on Search & Archive"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:141
+msgid "Enable or disable the sidebar on Search & Archive."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:147
+msgid "Social Sharing"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:148
+msgid "Enable / Disable social sharing icons on blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:154
+msgid "Author Info - Single Post"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:155
+msgid "Hide / Show author info on single blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:161
+msgid "Related Post"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:162
+msgid "Hide / Show related posts under blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:168
+msgid "Author Info - Blog Cards"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:169
+msgid "Hide or show author info on blog posts card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:176
+msgid "Blog Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:180
+msgid " All Blog Typography settings "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:185
+msgid "Blog Post Main Heading"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:186
+msgid "Specify font properties for the single post main heading."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:192
+msgid "Blog Post Content Headings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:193
+msgid ""
+"Specify font properties for the all heading tags in blog post content. "
+"Example - H1, H2, H3, H4, H5 and H6 "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:193
+msgid "*Please do not change font size and line height here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:199
+msgid "Blog Post Content"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:200
+msgid ""
+"Specify font properties for the remaining blog content. Example - "
+"Paragarphs, Links and Lists"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:206
+msgid "Blog  Card Heading"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:207
+msgid "Specify font properties for headings in all types of blog cards."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:213
+msgid "Blog Card Category"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:214
+msgid "Specify font properties for category in all types of blog cards."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:220
+msgid "Blog Card Author Name"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:221
+msgid "Specify font properties for author name in all types of blog cards."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:227
+msgid "Blog Post Card Date"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:228
+msgid "Specify font properties for post date in all types of blog cards."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:235
+msgid "Blog Colors"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:239
+msgid " All Blog Colors settings "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:244
+msgid "Blog Card Title - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:245
+msgid "Change the color of post title on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:251
+msgid "Pick a color for blog pagination text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:256
+msgid "Ajax Load Button"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:257
+msgid "Pick a color for ajax load more button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:262
+msgid "Comment Author Name"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:263
+msgid "Pick a Color for comment author name in the blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:268
+msgid "Comment Date"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:269
+msgid "Pick a Color for comment date in the blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:274
+msgid "Comment Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:275
+msgid "Pick a Color for comment text in the blog post."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:280
+msgid "Blog Card Heading"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:281
+msgid "Pick a color for blog card heading. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-blog-settings.php:281
+msgid ""
+"*This will effect post type - Video, Audio and Links on Vertical Layout. "
+"Default is white color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:15
+msgid "Custom fonts"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:16
+msgid "Create a custom font kit and add to theme options fonts library."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:23
+msgid "Create Custom Font Face"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:24
+msgid "Use Webfont Generator "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:24
+#: slcr-framework/redux/section/slcr-support.php:27
+msgid "here"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:24
+msgid "and create a font-face.zip file to upload here. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:24
+msgid "Check all steps in detail in "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:24
+msgid "Documentation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:26
+msgid "This is a title"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:27
+msgid "Description Here"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-custom-fonts.php:28
+msgid "Give us a link!"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:15
+msgid "Footer Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:17
+msgid "All Footer Settings related options are listed here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:22
+msgid "Footer General Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:24
+msgid "General Footer Styling and Content."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:30
+msgid "Footer Logo"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:31
+msgid "Upload a logo to use in footer. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:31
+msgid "Optional"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:37
+msgid "Footer Logo Height"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:38
+msgid "Change the height of the footer logo."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:46
+msgid ""
+"You can enter a small description or custom HTML here to show inside footer "
+"meta."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:52
+msgid "Copyright Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:53
+msgid "Enter any text to show along with copyright text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:59
+msgid "Hide Default Copyright Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:60
+msgid "Enable this option to hide default copyright text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:67
+msgid "Hide Whole Copyright Footer"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:68
+msgid "Hide whole copyright footer or bottom footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:75
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:93
+msgid "Footer Background"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:76
+msgid "Select a background type for footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:86
+msgid "Footer Background Image"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:87
+msgid "Upload any image to use as footer background image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:94
+msgid "Footer Overlay Opacity"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:95
+msgid "Adjust the overlay opacity for background image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:109
+msgid "Change overlay color of footer background image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:115
+msgid "Main Footer Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:116
+msgid "Pick a color to apply on main footer background."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:123
+msgid "Copyright Footer Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:124
+msgid "Change the background color of copyright footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:131
+msgid "Footer Color Scheme"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:132
+msgid "Select a color scheme for  footer content."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:142
+#: slcr-framework/redux/section/slcr-header-navigation.php:320
+msgid "Facebook Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:143
+#: slcr-framework/redux/section/slcr-footer-settings.php:152
+#: slcr-framework/redux/section/slcr-footer-settings.php:160
+#: slcr-framework/redux/section/slcr-footer-settings.php:168
+#: slcr-framework/redux/section/slcr-footer-settings.php:176
+#: slcr-framework/redux/section/slcr-footer-settings.php:183
+#: slcr-framework/redux/section/slcr-footer-settings.php:191
+#: slcr-framework/redux/section/slcr-footer-settings.php:199
+#: slcr-framework/redux/section/slcr-footer-settings.php:207
+#: slcr-framework/redux/section/slcr-footer-settings.php:215
+#: slcr-framework/redux/section/slcr-footer-settings.php:223
+#: slcr-framework/redux/section/slcr-footer-settings.php:231
+#: slcr-framework/redux/section/slcr-footer-settings.php:239
+#: slcr-framework/redux/section/slcr-footer-settings.php:247
+#: slcr-framework/redux/section/slcr-footer-settings.php:255
+#: slcr-framework/redux/section/slcr-footer-settings.php:263
+#: slcr-framework/redux/section/slcr-footer-settings.php:271
+#: slcr-framework/redux/section/slcr-footer-settings.php:279
+#: slcr-framework/redux/section/slcr-footer-settings.php:287
+#: slcr-framework/redux/section/slcr-footer-settings.php:295
+#: slcr-framework/redux/section/slcr-footer-settings.php:303
+#: slcr-framework/redux/section/slcr-footer-settings.php:311
+#: slcr-framework/redux/section/slcr-footer-settings.php:319
+msgid "Select to add this icon to the footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:150
+#: slcr-framework/redux/section/slcr-header-navigation.php:328
+msgid "Twitter Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:158
+#: slcr-framework/redux/section/slcr-header-navigation.php:336
+msgid "Google+ Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:166
+#: slcr-framework/redux/section/slcr-header-navigation.php:344
+msgid "Vimeo Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:174
+#: slcr-framework/redux/section/slcr-header-navigation.php:352
+msgid "Dribbble Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:182
+#: slcr-framework/redux/section/slcr-header-navigation.php:360
+msgid "Pinterest Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:190
+#: slcr-framework/redux/section/slcr-header-navigation.php:368
+msgid "Youtube Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:198
+#: slcr-framework/redux/section/slcr-header-navigation.php:376
+msgid "Tumblr Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:206
+#: slcr-framework/redux/section/slcr-header-navigation.php:384
+msgid "LinkedIn Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:214
+#: slcr-framework/redux/section/slcr-header-navigation.php:392
+msgid "RSS Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:222
+#: slcr-framework/redux/section/slcr-header-navigation.php:400
+msgid "Behance Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:230
+#: slcr-framework/redux/section/slcr-header-navigation.php:408
+msgid "Flickr Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:238
+#: slcr-framework/redux/section/slcr-header-navigation.php:416
+msgid "Spotify Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:246
+#: slcr-framework/redux/section/slcr-header-navigation.php:424
+msgid "Instagram Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:254
+#: slcr-framework/redux/section/slcr-header-navigation.php:432
+msgid "GitHub Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:262
+#: slcr-framework/redux/section/slcr-header-navigation.php:440
+msgid "StackExchange Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:270
+#: slcr-framework/redux/section/slcr-header-navigation.php:448
+msgid "SoundCloud Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:278
+#: slcr-framework/redux/section/slcr-header-navigation.php:456
+msgid "VK Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:286
+#: slcr-framework/redux/section/slcr-header-navigation.php:464
+msgid "Vine Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:294
+#: slcr-framework/redux/section/slcr-header-navigation.php:472
+msgid "Houzz Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:302
+#: slcr-framework/redux/section/slcr-header-navigation.php:480
+msgid "Yelp Social Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:310
+#: slcr-framework/redux/section/slcr-header-navigation.php:488
+msgid "Email Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:318
+#: slcr-framework/redux/section/slcr-header-navigation.php:496
+msgid "Phone Icon "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:326
+msgid "Layout Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:328
+msgid "Setting for building the footer layout."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:334
+msgid "Footer type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:335
+msgid "Select a type of the footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:364
+msgid "Footer Layout"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:365
+msgid "Select a layout for your footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:395
+#: slcr-framework/redux/section/slcr-footer-settings.php:409
+#: slcr-framework/redux/section/slcr-footer-settings.php:424
+msgid "Wider Column"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:396
+#: slcr-framework/redux/section/slcr-footer-settings.php:410
+#: slcr-framework/redux/section/slcr-footer-settings.php:425
+msgid "Select a column to make it wider than others."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:440
+msgid "Widgets Content Align"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:441
+msgid "Select an alignment for footer widgets."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:441
+msgid "It will effect whole widget, not text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:453
+msgid "Footer Content Align"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:454
+msgid "Adjust the alignment of whole footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:466
+#: slcr-framework/redux/section/slcr-footer-settings.php:478
+#: slcr-framework/redux/section/slcr-footer-settings.php:491
+#: slcr-framework/redux/section/slcr-footer-settings.php:505
+msgid "Footer Meta Position"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:467
+#: slcr-framework/redux/section/slcr-footer-settings.php:479
+#: slcr-framework/redux/section/slcr-footer-settings.php:492
+#: slcr-framework/redux/section/slcr-footer-settings.php:506
+msgid "Select a column where you want to show footer meta. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:467
+#: slcr-framework/redux/section/slcr-footer-settings.php:479
+#: slcr-framework/redux/section/slcr-footer-settings.php:492
+#: slcr-framework/redux/section/slcr-footer-settings.php:506
+msgid "Example - Logo and description."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:520
+msgid "Main Footer Padding"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:521
+msgid "Enter Main Footer Padding. e.g. 30"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:528
+msgid "Copyright Footer Padding"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:529
+msgid "Enter Copyright Footer Padding. e.g. 30"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:536
+msgid "Social Icons Position"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:548
+#: slcr-framework/redux/section/slcr-header-navigation.php:617
+#: slcr-framework/redux/section/slcr-header-navigation.php:713
+msgid "Social Icons Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:549
+msgid "Change the color of social icons."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:554
+msgid "Social Icons Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:555
+msgid "Change the color of social icons on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:560
+#: slcr-framework/redux/section/slcr-header-navigation.php:306
+#: slcr-framework/redux/section/slcr-header-navigation.php:623
+msgid "Social Icons Size"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:561
+msgid "Enter Social Icons Size. e.g. 30"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:567
+#: slcr-framework/redux/section/slcr-header-navigation.php:313
+#: slcr-framework/redux/section/slcr-header-navigation.php:630
+msgid "Social Icons Spacing"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:568
+msgid "Enter Social Icons Spacing . e.g. 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:574
+msgid "Footer Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:576
+msgid "Custom typography for footer elements and widgets."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:582
+msgid "Widget  Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:583
+msgid "Specify font properties for the Widget Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:589
+msgid "Description Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:590
+msgid "Specify font properties for the Description Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:596
+msgid "Copyright Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:597
+msgid "Specify font properties for the Copyright Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:603
+msgid "Widget Title Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:604
+msgid "Specify font properties for the Widget Titles."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:610
+msgid "Widget Links Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:611
+msgid "Specify font properties for the Widget Links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:617
+msgid "Widget Menu Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-footer-settings.php:618
+msgid "Specify font properties for the Widget Menu."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:15
+msgid "Form Styling"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:17
+msgid "All Form Styling related options are listed here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:24
+msgid "Input Fields Height"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:25
+msgid "Change the height of all input field types"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:32
+msgid "Input Fields Margin - Top and Bottom"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:33
+msgid "Change top and bottom margin on input fields."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:40
+msgid "Input Fields Border Radius"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:41
+msgid "Change the border radius of input fields."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:48
+msgid "Input Fields Font Size"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:49
+msgid "Change the font size of input fields."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:56
+msgid "Input Fields Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:57
+msgid "Pick a color for  back ground color ."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:63
+msgid "Input Fields Border Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:64
+msgid "Change the border color of input fields."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:70
+msgid "Input Fields Border Color - Focus"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:71
+msgid "Change the border color of input fields on focus."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:77
+msgid "Input Fields Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:78
+msgid "Change the text color of input fields."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:84
+msgid "Submit Button Padding - Top and Bottom"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:85
+msgid "Change submit button padding from top and bottom. Example - 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:92
+msgid "Submit Button Padding - Left and Right"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:93
+msgid "Change submit button padding from left and right. Example - 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:100
+#: slcr-framework/redux/section/slcr-header-navigation.php:837
+msgid "Button Border Radius"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:101
+msgid "Change the border radius of submit button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:108
+msgid "Button Border Width"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:109
+msgid "Change the border width of submit button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:116
+msgid "Button Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:117
+msgid "Pick a color for the background of submit button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:123
+msgid "Button Background Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:124
+msgid "Pick a color for the background of submit button on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:130
+msgid "Button Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:131
+msgid "Change the text color of submit button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:137
+msgid "Button Text Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:138
+msgid "Change the text color of submit button on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:144
+msgid "Button Border Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:145
+msgid "Change the border color of submit button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:151
+msgid "Button Border Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:152
+msgid "Change the border color of submit button on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:158
+msgid "Label Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-form-styling.php:159
+msgid "Specify font properties for the Input Fields Label."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:15
+#: slcr-framework/redux/section/slcr-general-settings.php:22
+msgid "General Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:17
+msgid "General Theme options"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:23
+msgid "General and basic theme options."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:30
+msgid "Favicon"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:31
+msgid "Upload a 16 x 16 or 32 x 32 Favicon for your website."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:37
+msgid "Apple Touch Icon 72"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:38
+msgid "Choose 72 x 72 Apple touch icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:44
+msgid "Apple Touch Icon 114"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:45
+msgid "Choose 114 x 114 Apple touch icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:51
+msgid "Apple Touch Icon 144"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:52
+msgid "Choose 144 x 144 Apple touch icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:58
+msgid "Container Width"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:59
+msgid "Change the width of container in whole website."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:59
+msgid "Default size is 1170."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:66
+msgid "Content Padding - Top"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:67
+msgid "Enter custom padding on the top of main content. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:67
+#: slcr-framework/redux/section/slcr-general-settings.php:75
+msgid "Content between Header and Footer"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:74
+msgid "Content Padding - Bottom"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:75
+msgid "Enter custom padding on the bottom of main content. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:82
+msgid "Body Border"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:83
+msgid "Enable a border around entire window."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:89
+msgid "Border Width"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:90
+msgid "Enter the value for border width. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:90
+msgid "Example - 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:97
+msgid "Border Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:98
+msgid "Select a color to apply on body border"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:112
+msgid "Functionality"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:113
+msgid "Theme functionality and other settings."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:120
+msgid "Compress HTML, CSS & Javascripts"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:127
+msgid "Back to Top Icon"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:128
+msgid "Enable or disable back to top button on every page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:134
+msgid "Back to Top Icon Mobile"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:135
+msgid "Keep this button on Mobile and Tablet by enabling this option."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:142
+msgid "Search Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:143
+msgid "Select a type of Search. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:143
+msgid ""
+"Select product to search products and blog to search only blog posts in the "
+"search results."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:154
+msgid "Scroll To Div Animation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:155
+msgid "Scroll smoothly via in-page links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:161
+msgid "Fade Effect on Exit"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:162
+msgid "Exit the page with a fade animation on clicking the links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:168
+msgid "Preloader"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:169
+msgid "Enable or disable preloader."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:175
+msgid "Preloader Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:176
+msgid "Select a type of preloader. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:176
+msgid ""
+"Loader is the default theme preloader type. You can also use custom image "
+"GIF or simple image by selecting Image option."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:187
+msgid "First Color - Preloader"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:188
+msgid ""
+"Select 3 different colors to make it multicoloured or select same color at "
+"each field to use it as single coloured."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:188
+msgid "Do not leave any color empty."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:195
+msgid "Second Color - Preloader"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:196
+msgid "Select second color for preloader."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:196
+#: slcr-framework/redux/section/slcr-general-settings.php:204
+msgid "Do not leave this empty."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:203
+msgid "Third Color - Preloader"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:204
+msgid "Select third color for preloader."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:211
+msgid "Preloader Image"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:212
+msgid "Select a image to use as website preloader. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:212
+msgid "You can use GIF or simple image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:219
+msgid "Image Size"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:220
+msgid "Give a custom height to your image."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:228
+msgid "Preloader Page Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:229
+msgid "Change the background color of the preloader page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:235
+msgid "Preloader Position"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:236
+msgid "Select a position of page, where you want to show preloader."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:249
+msgid "Google Map API "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:250
+msgid "Enter your Google API key to enable Google Maps. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:250
+msgid "Get your key here"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:256
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:213
+msgid "Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:260
+msgid "Main theme typography settings."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:265
+msgid "Body & Overall Font URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:266
+#: slcr-framework/redux/section/slcr-general-settings.php:289
+msgid "Enter a Google Fonts or Typekit URL to load font files. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:266
+msgid ""
+"Example - https://fonts.googleapis.com/css?family=Poppins:400,500,600,700"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:273
+msgid "Overall Font Family"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:274
+#: slcr-framework/redux/section/slcr-general-settings.php:297
+#: slcr-framework/redux/section/slcr-general-settings.php:321
+msgid "Enter the font family css of the font you are using."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:274
+msgid "Example - 'Poppins', sans-serif"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:274
+#: slcr-framework/redux/section/slcr-general-settings.php:297
+#: slcr-framework/redux/section/slcr-general-settings.php:321
+msgid "Do not use double quotes ( \" ) in Font Family Name"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:281
+msgid "Use Different Font for Paragraph Tag"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:282
+msgid "Enable the option to use different font family for p or Paragraph tag."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:288
+msgid "Paragraph Font URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:289
+#: slcr-framework/redux/section/slcr-general-settings.php:312
+msgid "Example - https://fonts.googleapis.com/css?family=Nunito:400,600,700"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:296
+msgid "Paragraph Font Family"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:297
+#: slcr-framework/redux/section/slcr-general-settings.php:321
+msgid "Example - 'Nunito', sans-serif"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:304
+msgid "Use Different Font for all Heading Tags"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:305
+msgid "Enable the option to use different font family for H or Heading tags."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:311
+msgid "Headings Font URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:312
+msgid "Enter a Google Fonts or Typekit URL to load font files.  "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:320
+msgid "Headings Font Family"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:329
+msgid "Body Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:330
+msgid "Specify font properties for the Body typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:344
+msgid "H1 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:345
+msgid "Specify font properties for the H1 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:359
+msgid "H2 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:360
+msgid "Specify font properties for the H2 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:374
+msgid "H3 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:375
+msgid "Specify font properties for the H3 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:389
+msgid "H4 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:390
+msgid "Specify font properties for the H4 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:404
+msgid "H5 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:405
+msgid "Specify font properties for the H5 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:419
+msgid "H6 Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:420
+msgid "Specify font properties for the H6 tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:434
+msgid "P Tag Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:435
+msgid "Specify font properties for the P tag Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:449
+msgid "Theme Colors"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:453
+msgid "Theme colors settings "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:458
+msgid "Main Theme Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:459
+msgid "Select a main theme color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:465
+msgid "Second Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:466
+msgid "Select a second color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:472
+msgid "Main Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:473
+msgid "Select a color to use as overall text color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:479
+msgid "Second Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:480
+msgid "Select a Second color to use as overall text color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:486
+msgid "Third Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:487
+msgid "Select a Third color to use as overall text color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:493
+msgid "Body Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:494
+msgid "Pick a color for body background color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:500
+msgid "Links Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:501
+msgid "Select a color for all links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:507
+msgid "Links Color on Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:508
+msgid "Select a color for all links on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:514
+msgid "Gradient Color 1"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:515
+msgid "Select a Gradient color 1."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:521
+msgid "Gradient Color 2"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:522
+msgid "Select a Gradient color 2."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:528
+msgid "Body Selection Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:529
+msgid "Select a color for Body Selection."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:535
+msgid "Custom CSS & Scripts"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:537
+msgid "Add custom CSS, Google Analytics and any other scripts."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:543
+#: slcr-framework/redux/section/slcr-general-settings.php:547
+msgid "Custom CSS"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:544
+#: slcr-framework/redux/section/slcr-general-settings.php:548
+msgid "Allows you to add any custom CSS code if you need to customize styles"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:554
+#: slcr-framework/redux/section/slcr-site-privacy.php:104
+msgid "Google Analytics"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:555
+msgid "Please enter your Google Analytics tracking JS code here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:561
+msgid "Google Webmaster / Other API"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-general-settings.php:562
+msgid ""
+"Please enter your Google Webmaster  or any other API code using &lt;"
+"script&gt; tag."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:15
+msgid "Header Navigation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:17
+msgid "All header navigation related options are listed here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:22
+msgid "Logo & General Styling"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:24
+msgid "General setting for header naigation like logos, height and colors etc."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:30
+msgid "Main Logo"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:31
+msgid "Select a main logo to display inside header naviagtion."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:37
+msgid "Sticky Logo"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:38
+msgid "Choose a logo to display sticky is enabled."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:45
+msgid "Give a custom height to the logo."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:52
+msgid "Logo Height on Mobile"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:53
+msgid "Custom height for the logo on mobile view."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:60
+msgid "Change the height of the header navigation."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:68
+msgid "Custom height for the header navigation on mobile view."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:75
+msgid "Pick a color for Background ."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:80
+msgid "Header Scheme"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:81
+msgid "Select a color scheme for header text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:92
+msgid "Enable this option to make the Header Absolute positioned. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:92
+msgid "Best for Transparent Background"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:98
+msgid "Absolute - Mobile"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:99
+msgid "Enable this option to keep Absolute header on Mobile View."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:105
+msgid "Header Shadow"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:106
+msgid "Select a shadow type on the bottom of the header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:119
+msgid "Make the header sticked to top when page is scrolled."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:126
+msgid "Enable to keep"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:133
+msgid "Sticky Header Height"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:134
+msgid "Give custom height to the header is in sticky state."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:141
+msgid "Sticky Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:142
+msgid "Give custom background color to the header is in sticky state."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:148
+msgid "Shadow on Sticky"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:149
+msgid "Select a shadow type when header is in sticky state."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:162
+msgid "Sticky Header Scheme"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:163
+msgid "Select a color scheme for Sticky header text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:174
+msgid "Menu Items Hover Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:175
+msgid "Select a border type on mouseover menu items."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:187
+msgid "Main Header Spacing"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:188
+msgid "Give Main Header Spacing."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:194
+msgid "Secondary Header Spacing"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:195
+msgid "Give Main Secondary Spacing."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:202
+msgid "Navigation Layout"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:204
+msgid "Build a layout for the website header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:210
+msgid "Header Navigation Layout"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:211
+msgid "Select a layout for your Navigation Header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:212
+msgid "Default layout is First"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:240
+msgid "Main Menu Position"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:241
+msgid "Select the position of primary menu."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:253
+msgid "Sidebar Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:254
+msgid "Select a sidebar type."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:265
+msgid "Contained Layout"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:266
+msgid ""
+"Use this option to enable or disable container inside header navigation."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:272
+msgid "Search Icon"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:273
+msgid "Use this option to hide and show search icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:279
+msgid "Tob Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:280
+msgid ""
+"By enabling top bar, social icons will move to the top bar and removed from "
+"main layout."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:286
+msgid "Background Color - Top Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:287
+msgid "Pick a background color for top menu bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:294
+msgid "Top Bar Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:295
+msgid "Enter custom HTML or text to show on top bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:300
+msgid "Social Icons"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:301
+msgid ""
+"If Social Icons list is not visible, Navigate to Social Media tab in the "
+"theme options and paste URLs there."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:307
+msgid "Change the size of social icons inside header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:314
+msgid "Adjust the spacing between social icons."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:321
+#: slcr-framework/redux/section/slcr-header-navigation.php:330
+#: slcr-framework/redux/section/slcr-header-navigation.php:338
+#: slcr-framework/redux/section/slcr-header-navigation.php:346
+#: slcr-framework/redux/section/slcr-header-navigation.php:354
+#: slcr-framework/redux/section/slcr-header-navigation.php:361
+#: slcr-framework/redux/section/slcr-header-navigation.php:369
+#: slcr-framework/redux/section/slcr-header-navigation.php:377
+#: slcr-framework/redux/section/slcr-header-navigation.php:385
+#: slcr-framework/redux/section/slcr-header-navigation.php:393
+#: slcr-framework/redux/section/slcr-header-navigation.php:401
+#: slcr-framework/redux/section/slcr-header-navigation.php:409
+#: slcr-framework/redux/section/slcr-header-navigation.php:417
+#: slcr-framework/redux/section/slcr-header-navigation.php:425
+#: slcr-framework/redux/section/slcr-header-navigation.php:433
+#: slcr-framework/redux/section/slcr-header-navigation.php:441
+#: slcr-framework/redux/section/slcr-header-navigation.php:449
+#: slcr-framework/redux/section/slcr-header-navigation.php:457
+#: slcr-framework/redux/section/slcr-header-navigation.php:465
+#: slcr-framework/redux/section/slcr-header-navigation.php:473
+#: slcr-framework/redux/section/slcr-header-navigation.php:481
+#: slcr-framework/redux/section/slcr-header-navigation.php:489
+#: slcr-framework/redux/section/slcr-header-navigation.php:497
+msgid "Select to add this icon to the header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:506
+msgid "Navigation Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:508
+msgid "Change the typography of particular header elements."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:514
+#: slcr-framework/redux/section/slcr-header-navigation.php:637
+msgid "Main Menu Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:515
+#: slcr-framework/redux/section/slcr-header-navigation.php:638
+msgid "Specify font properties for the Main Menu Links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:530
+msgid "Secondary Menu Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:531
+msgid "Specify font properties for the Secondary Menu Links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:546
+#: slcr-framework/redux/section/slcr-header-navigation.php:651
+msgid "Top Bar Text Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:547
+msgid "Specify font properties for the Top Bar Custom Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:553
+#: slcr-framework/redux/section/slcr-header-navigation.php:644
+msgid "Dropdown Menu Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:554
+msgid "Specify font properties for the Dropdown Menu Typography."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:569
+msgid "Dropdown Title Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:570
+msgid "Specify font properties for the Dropdown Menu Title."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:585
+msgid "Mobile & Sidebar Navigation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:587
+msgid "Style the sidebar navigation on mobile view and desktop view."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:593
+msgid "Mobile Navigation Style"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:594
+msgid "Select a Style Type."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:605
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:606
+msgid "Pick a color for Background."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:611
+msgid "Sidebar Close Icon Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:612
+msgid "Change the color of sidebar close icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:618
+msgid "Pick a color for Top Bar Icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:624
+msgid "Enter Mobile Social Icons Size. e.g. 30"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:631
+msgid "Enter Mobile Social Icons Spacing. e.g. 30"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:645
+msgid "Specify font properties for the Dropdown Menu Links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:652
+msgid "Specify font properties for the Top Bar Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:658
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:242
+msgid "Custom Colors"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:660
+msgid "Custom color selection for header elements."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:666
+msgid "Menu Item Hover / Active - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:667
+msgid "Pick a color on menu item hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:673
+msgid "Mega Dropdown Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:674
+msgid "Use a custom background color for mega dropdown menu."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:679
+msgid "Simple Dropdown Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:680
+msgid "Use a custom background color for simple dropdown menu."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:685
+msgid "Dropdown List Item Hover - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:686
+msgid "Pick a custom background color on dropdown menu item hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:692
+msgid "Dropdown List Item Hover - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:693
+msgid "Pick a color on dropdown menu item hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:699
+msgid "Menu Icon Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:700
+msgid "Pick a color for simple mobile menu icon."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:706
+msgid "Main Navigation Icon Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:707
+msgid "Pick a custom color for main navigation icons. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:707
+msgid "Example - Search Icon and Cart Icon"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:714
+msgid "Change icons color for social media icons in header navigation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:720
+msgid "Custom Menu Button"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:721
+msgid ""
+"Use custom settings to modify menu list buttons according to your need. To "
+"use a button as a menu item, Go to Menus > Select a menu item > Change Menu "
+"Item Style to Simple Button or Bordered Button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:728
+msgid "Simple Button Styling"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:729
+#: slcr-framework/redux/section/slcr-header-navigation.php:781
+msgid "Custom settings to make desired menu item button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:734
+msgid "Simple Button Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:735
+msgid "Specify font properties for the Simple Button Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:741
+msgid "Simple Button Text Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:742
+msgid "Custom text color on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:747
+msgid "Simple Button Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:748
+msgid "Custom background color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:753
+msgid "Simple Button Background Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:754
+msgid "Custom background color on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:759
+msgid "Simple Button Padding - Top and Bottom"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:760
+#: slcr-framework/redux/section/slcr-header-navigation.php:824
+msgid "Enter Button Padding - Top and Bottom. e.g. 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:766
+msgid "Simple Button Padding - Left and Right"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:767
+#: slcr-framework/redux/section/slcr-header-navigation.php:831
+msgid "Enter Button Padding - Left and Right. e.g. 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:773
+msgid "Simple Button Border Radius"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:774
+#: slcr-framework/redux/section/slcr-header-navigation.php:838
+msgid "Enter Button Border Radius. e.g. 10"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:780
+msgid "Bordered Button Styling"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:786
+msgid "Bordered Button Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:787
+msgid "Specify font properties for the Bordered Button Text."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:793
+msgid "Bordered Button Text Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:794
+msgid "Change text color on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:799
+msgid "Bordered Button Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:800
+msgid "Custom background color for button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:805
+msgid "Bordered Button Background Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:806
+msgid "Pick a color for bordered button background on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:811
+msgid "Bordered Button Border Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:812
+msgid "Change border color of button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:817
+msgid "Bordered Button Border Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:818
+msgid "Change border color of button on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:823
+msgid "Button Padding - Top and Bottom"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-header-navigation.php:830
+msgid "Button Padding - Left and Right"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:17
+msgid "Customize the golbal page header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:25
+msgid "Change the height of page header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:33
+msgid "Enable or disable breadcrumb."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:40
+msgid "Select a background type for page header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:52
+msgid "Upload an image to show on  page header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:53
+msgid ""
+"This is the default header image. To use different image, upload feature "
+"image on each page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:60
+msgid "Pick a color for background of the page header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:67
+msgid "Gradient Code"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:68
+msgid "Enter the gradient CSS here. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:68
+msgid "Example - "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:68
+msgid " linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%)"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:76
+msgid "Change the image overlay color."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:83
+msgid "Enter the overlay opacity from 1 to 10."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:92
+msgid "Select a content Type."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:102
+msgid "Content Position - Vertical"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:103
+#: slcr-framework/redux/section/slcr-page-header.php:115
+msgid "Select a postion to display header content."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:114
+msgid "Content Position - Horizontal"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:126
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:206
+msgid "Header Title Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:127
+msgid "Specify font properties for the Header Title."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:133
+msgid "Header Description Typography"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:134
+msgid "Specify font properties for the Header Description."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:140
+msgid "Breadcrumbs Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:141
+msgid "Change the text color of breadcrumbs."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:146
+msgid "Breadcrumbs Color - Hover"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-page-header.php:147
+msgid "Change the text color of breadcrumbs on hover."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:15
+msgid "Site Privacy"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:17
+msgid ""
+"Adanced site privacy options to allow and block cookies by third party "
+"websites and services."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:24
+msgid "Cookie Expiration"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:25
+msgid "Set how many days the cookies should be stored for the users."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:35
+msgid "Privacy Consent"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:36
+msgid ""
+"Block the media embeds and third-party scripts from loading until the user "
+"consent is given."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:43
+msgid "Privacy Consent Elements"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:44
+msgid ""
+"Select specific elements to require consent at the locations where the "
+"elements are used."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:56
+msgid "Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:57
+msgid ""
+"Enable a privacy bar at the bottom of the page to ask users to allow the use "
+"of cookies."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:64
+msgid "Overall Consent Types"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:65
+msgid ""
+"Select the types of embeds which you would like to allow from the privacy "
+"bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:76
+msgid "Privacy Bar Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:77
+msgid "The custom text you want to appear on the privacy bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:86
+msgid "Custom HTML"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:87
+msgid "You can also add some custom HTML to add external page links."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:90
+msgid "Privacy Policy"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:95
+msgid "Button Text"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:96
+msgid ""
+"The custom text to display on the button to allow the privacy acceptance."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:105
+msgid ""
+"If you are using Google Analytics, enable this option to put this in privacy "
+"consent with page bar. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:105
+#: slcr-framework/redux/section/slcr-site-privacy.php:113
+msgid "General Settings > Custom CSS and Scripts."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:112
+msgid "Other Scripts or API"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:113
+msgid ""
+"If you are using any other script which requires the use of cookies, enable "
+"this option to put this in privacy consent with page bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:120
+msgid "Background Color - Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:121
+msgid "Change the background color of the privacy bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:127
+msgid "Text Color - Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:128
+msgid "Select a custom text color for privacy bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:134
+msgid "Links Color - Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:135
+msgid ""
+"Change the color of external links if you are using any inside custom HTML "
+"input."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:141
+msgid "Button Color - Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:142
+msgid "Custom background color for the button inside the privacy bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:148
+msgid "Button Text Color - Privacy Bar"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-site-privacy.php:149
+msgid "Custom text color on the button inside the privacy bar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:15
+msgid "Social Media"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:17
+msgid "Enter your social URLs here and manage from Header and Footer tabs. "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:17
+msgid "Remember to include the \"http://\" in every URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:24
+msgid "Facebook URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:25
+msgid "Please enter in your Facebook URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:31
+msgid "Twitter URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:32
+msgid "Please enter in your Twitter URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:38
+msgid "Google+ URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:39
+msgid "Please enter in your Google+ URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:45
+msgid "Vimeo URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:46
+msgid "Please enter in your Vimeo URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:52
+msgid "Dribbble URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:53
+msgid "Please enter in your Dribbble URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:59
+msgid "Pinterest URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:60
+msgid "Please enter in your Pinterest URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:66
+msgid "Youtube URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:67
+msgid "Please enter in your Youtube URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:73
+msgid "Tumblr URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:74
+msgid "Please enter in your Tumblr URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:80
+msgid "LinkedIn URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:81
+msgid "Please enter in your LinkedIn URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:87
+msgid "RSS URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:88
+msgid ""
+"If you have an external RSS feed such as Feedburner, please enter it here. "
+"Will use built in WordPress feed if left blank."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:94
+msgid "Behance URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:95
+msgid "Please enter in your Behance URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:101
+msgid "Flickr URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:102
+msgid "Please enter in your Flickr URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:108
+msgid "Spotify URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:109
+msgid "Please enter in your Spotify URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:115
+msgid "Instagram URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:116
+msgid "Please enter in your Instagram URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:122
+msgid "GitHub URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:123
+msgid "Please enter in your GitHub URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:129
+msgid "StackExchange URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:130
+msgid "Please enter in your StackExchange URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:136
+msgid "SoundCloud URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:137
+msgid "Please enter in your SoundCloud URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:143
+msgid "VK URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:144
+msgid "Please enter in your VK URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:150
+msgid "Vine URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:151
+msgid "Please enter in your Vine URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:157
+msgid "Houzz URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:158
+msgid "Please enter in your Houzz URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:164
+msgid "Yelp URL"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:165
+msgid "Please enter in your Yelp URL."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:171
+msgid "Email link"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:172
+msgid "Please enter in your URL link."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:178
+msgid "Phone Link"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-social-media.php:179
+msgid "Please enter in your Phone link."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:15
+msgid "Support"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:17
+msgid "Theme Documentation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:25
+msgid "SC Documentation"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:27
+msgid "Click "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:27
+msgid " to visit the Help Center."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-support.php:27
+msgid ""
+"Vsit SC Help Center for the detailed documentation about the theme and any "
+"kind of other customer support."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:17
+msgid "WooCommerce"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:19
+msgid "All woocommerce Settings related options are listed here."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:25
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:27
+msgid "General shop layout related settings."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:34
+msgid "Shop Grid"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:35
+msgid "Select a grid for your shop page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:36
+msgid "Default is 3 col."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:57
+msgid "Turn this option on to enable the sidebar on archive page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:63
+msgid "Sidebar Position "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:64
+msgid "Select a position for your sidebar."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:75
+msgid "Product Card Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:76
+msgid "Select a layout for your product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:77
+msgid "Default type is Modern"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:94
+msgid "Change the background color of product card footer."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:100
+msgid "Card Text Align"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:101
+msgid "Select a position to align the meta text under product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:113
+msgid "Gallery Product Category On / Off"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:114
+msgid "Hide/Show Product Category ."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:120
+msgid "Hover Image change"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:121
+msgid "Enable multiple images on hover product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:127
+msgid "Cart Icon in Header"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:134
+msgid "Shop Archive Header"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:136
+msgid "Global page header for shop archive pages."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:143
+msgid "Header Visiblity"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:144
+msgid "Enable or disable header on shop archive page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:150
+msgid "Header Padding "
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:151
+msgid "Change the padding of shop archive header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:159
+msgid "Select a background type for shop archive header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:171
+msgid "Background color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:172
+msgid "Pick a color for shop archive header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:179
+msgid "Upload an image to show on shop archive header."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:186
+msgid "Background image overlay"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:187
+msgid "Change Background image overlay Opacity ."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:198
+msgid "Gradient Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:199
+msgid "Enter gradient code CSS to use as header background."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:207
+msgid "Specify font properties for the shop archive header title."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:215
+msgid "Custom typography for shop elements."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:221
+msgid "Product Title - Product Card"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:222
+msgid "Specify font properties for the product title on product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:228
+msgid "Product Title - Single Product Page"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:229
+msgid "Specify font properties for the product title on single product page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:235
+msgid "Product Description - Single Product Page"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:236
+msgid ""
+"Specify font properties for the product description on single product page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:244
+msgid "Custom colors for shop elements."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:250
+msgid "Add to Cart Button - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:251
+msgid "Change background color of add to cart button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:256
+msgid "Add to Cart Button - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:257
+msgid "Change text color of add to cart button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:262
+msgid "Proceed Checkout Button - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:263
+msgid "Change background color of proceed to checkout button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:268
+msgid "Proceed Checkout Button - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:269
+msgid "Change text color of proceed to checkout button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:274
+msgid "Place Order Button - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:275
+msgid "Change background color of place order button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:280
+msgid "Place Order Button - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:281
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:293
+msgid "Change text color of place order button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:286
+msgid "Login Button - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:287
+msgid "Change background color of login button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:292
+msgid "Login Button - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:298
+msgid "Register Button - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:299
+msgid "Change background color of register button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:304
+msgid "Register Button - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:305
+msgid "Change text color of register button."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:310
+msgid "Overall Buttons - Background Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:311
+msgid "Change background color of all shop buttons."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:316
+msgid "Overall Buttons - Text Color"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:317
+msgid "Change text color of all shop buttons."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:322
+msgid "Price Text Color - Product Page"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:323
+msgid "Change the text color of price on single product page."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:328
+msgid "Price Text Color - Product Card"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:329
+msgid "Change the text color of price on product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:334
+msgid "Category Color - Product Card"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:335
+msgid "Change the text color of category on product card."
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:340
+msgid "Product Title Hover Color - Modern Type"
+msgstr ""
+
+#: slcr-framework/redux/section/slcr-woocommerce-settings.php:341
+msgid "Change the product title color on product card hover."
+msgstr ""
+
+#: slcr-framework/redux/slcr-config.php:112
+msgid "Theme Options"
+msgstr ""
+
+#: slcr-framework/redux/slcr-config.php:120
+#: slcr-framework/redux/slcr-config.php:121
+msgid "SC Options"
+msgstr ""
+
+#: slcr-framework/slcr-actions-filters.php:258 template-parts/main/head.php:453
+#: template-parts/main/head.php:794
+msgid "Subtotal"
+msgstr ""
+
+#: slcr-framework/slcr-actions-filters.php:273 template-parts/main/head.php:473
+#: template-parts/main/head.php:814
+msgid "Shipping"
+msgstr ""
+
+#: slcr-framework/slcr-actions-filters.php:288 template-parts/main/head.php:489
+#: template-parts/main/head.php:827
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: slcr-framework/slcr-actions-filters.php:306 template-parts/main/head.php:510
+#: template-parts/main/head.php:845
+msgid "Total"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:97
+msgid "Main Menu"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:98
+msgid "Secondary Menu "
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:98
+msgid "Right Side Aligned Menu."
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:98
+msgid "Main & Secondary Menu should not be same."
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "CSS Classes"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "from the"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "Screen Options"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "on the top of the page to use following classes."
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "mega__dropdown col__4 for enabling Mega Menu."
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "hide__label for hiding label of Menu Item."
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:116
+msgid "make__title to turn the label into Custom Title"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:119
+msgid "Menu Item Style"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:121
+msgid "Default"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:122
+msgid "Simple button"
+msgstr ""
+
+#: slcr-framework/slcr-custom-menu.php:123
+msgid "Bordered button"
+msgstr ""
+
+#: slcr-framework/slcr-helper.php:201
+#, fuzzy
+#| msgid "Prev"
+msgid "Previous"
+msgstr "Попер"
+
+#: slcr-framework/slcr-init.php:134
+msgid "Pages:"
+msgstr ""
+
+#: slcr-framework/slcr-init.php:140
+#, fuzzy
+#| msgid "Next"
+msgid "Next page"
+msgstr "Наст"
+
+#: slcr-framework/slcr-init.php:141
+msgid "Previous page"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:85
+msgid "Slash Creative Core"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:92
+msgid "Woocommerce"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:97
+msgid "Contact Form 7"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:102
+msgid "Autoptimize"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:107
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:114
+msgid "Advanced Custom Fields Pro"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:165
+msgid "Slash Creative Core is activated click here to custmize website"
+msgstr ""
+
+#: slcr-framework/slcr-plugins.php:165
+msgid "Click here"
+msgstr ""
+
+#: slcr-framework/slcr-vc.php:80
+msgid "Custom Pack"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:79
+msgid "SC Main Widget Area"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:82 slcr-framework/slcr-widgets.php:112
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:89
+msgid "Woocommerce Widget Area"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:92
+msgid "Add widgets here to appear in your Woocommerce sidebar."
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:99
+msgid "Page Widget Area"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:102
+msgid "Add widgets here to appear in your page  sidebar."
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:109
+msgid "Blog Page Widget Area"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:120
+msgid "Footer Widget 1"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:122 slcr-framework/slcr-widgets.php:133
+#: slcr-framework/slcr-widgets.php:144 slcr-framework/slcr-widgets.php:155
+#: slcr-framework/slcr-widgets.php:166
+msgid "Custom Sidebar"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:131
+msgid "Footer Widget 2"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:142
+msgid "Footer Widget 3"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:153
+msgid "Footer Widget 4"
+msgstr ""
+
+#: slcr-framework/slcr-widgets.php:164
+msgid "Footer Widget 5"
+msgstr ""
+
+#: slcr-framework/slcr-woo.php:132
+msgid "Sale!"
+msgstr ""
+
+#: slcr-framework/slcr-woo.php:197
+msgid "Shop Page!"
+msgstr ""
+
+#: template-parts/archive.php:45
+msgid "Posts"
+msgstr "Опубліковано"
+
+#: template-parts/archive.php:53 template-parts/main/comment-form.php:39
+msgid "Website"
+msgstr ""
+
+#: template-parts/archive.php:54
+msgid "Visit"
+msgstr ""
+
+#: template-parts/archive.php:77 template-parts/archive.php:97
+#: template-parts/archive.php:112 template-parts/archive.php:127
+#: template-parts/archive.php:142 template-parts/search.php:47
+msgid "See"
+msgstr "Знайдено"
+
+#: template-parts/archive.php:77 template-parts/archive.php:97
+#: template-parts/archive.php:112 template-parts/archive.php:127
+#: template-parts/archive.php:142
+msgid "results"
+msgstr "результати(ів)"
+
+#: template-parts/archive.php:96
+msgid "Tag"
+msgstr "Тег"
+
+#: template-parts/archive.php:111 template-parts/archive.php:126
+#: template-parts/archive.php:141
+msgid "Date"
+msgstr ""
+
+#: template-parts/blog-type.php:226 template-parts/blog-type.php:230
+msgid "Load More Posts"
+msgstr ""
+
+#: template-parts/main/comment-form.php:27
+msgid "Name"
+msgstr ""
+
+#: template-parts/main/comment-form.php:33
+msgid "Email"
+msgstr ""
+
+#: template-parts/main/comment-form.php:45
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: template-parts/main/comment-form.php:57
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: template-parts/main/comment-form.php:58
+msgid "Cancel"
+msgstr ""
+
+#: template-parts/main/comment-form.php:59
+msgid "Post Comment"
+msgstr ""
+
+#: template-parts/main/comment-form.php:68
+msgid "You must be "
+msgstr ""
+
+#: template-parts/main/comment-form.php:68
+msgid "logged in"
+msgstr ""
+
+#: template-parts/main/comment-form.php:68
+msgid "to post a comment."
+msgstr ""
+
+#: template-parts/main/comment-form.php:69
+msgid "Signed in as "
+msgstr ""
+
+#: template-parts/main/comment-form.php:69
+msgid "Log out of this account"
+msgstr ""
+
+#: template-parts/main/comment-form.php:69
+msgid "Sign out"
+msgstr ""
+
+#: template-parts/main/comment-form.php:98
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: template-parts/main/comment-form.php:99
+msgid "(Edit)"
+msgstr ""
+
+#: template-parts/main/comment-form.php:110
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/main/footer.php:40 template-parts/main/footer.php:75
+#: template-parts/main/head.php:48 template-parts/main/head.php:69
+msgid "logo"
+msgstr ""
+
+#: template-parts/main/head.php:149
+msgid "preloader"
+msgstr ""
+
+#: template-parts/main/head.php:287 template-parts/main/head.php:646
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/main/head.php:363 template-parts/main/head.php:712
+msgid "What are you looking for?"
+msgstr "Що ви шукаєте?"
+
+#: template-parts/main/head.php:369
+msgid "product"
+msgstr ""
+
+#: template-parts/main/head.php:372
+msgid "main"
+msgstr ""
+
+#: template-parts/main/head.php:423 template-parts/main/head.php:764
+msgid "Shopping Cart"
+msgstr ""
+
+#: template-parts/main/head.php:427 template-parts/main/head.php:768
+msgid "Your cart is empty"
+msgstr ""
+
+#: template-parts/main/head.php:428 template-parts/main/head.php:769
+msgid "Looks like there are no items in your shopping cart"
+msgstr ""
+
+#: template-parts/main/head.php:450 template-parts/main/head.php:791
+msgid "Cart totals"
+msgstr ""
+
+#: template-parts/main/head.php:526 template-parts/main/head.php:855
+msgid "View cart"
+msgstr ""
+
+#: template-parts/main/head.php:864 template-parts/main/head.php:872
+msgid "Close (Esc)"
+msgstr ""
+
+#: template-parts/main/head.php:867 template-parts/main/head.php:875
+msgid ""
+"This content is blocked due to privacy reasons, you need to allow the use of "
+"cookies."
+msgstr ""
+
+#: template-parts/main/head.php:868 template-parts/main/head.php:876
+msgid "I Agree"
+msgstr ""
+
+#: template-parts/search.php:45
+msgid "You Searched For "
+msgstr "Ви шукали "
+
+#: template-parts/search.php:48
+msgid "Results"
+msgstr "результати(ів)"
+
+#: template-parts/search.php:48
+msgid "Result"
+msgstr "результат"
+
+#: woocommerce/cart/cart-empty.php:42
+msgid ""
+"There are currently no items in your cart, Please go back to shop and put "
+"some items in the cart."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:45 woocommerce/myaccount/dashboard.php:48
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:107
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Have a Coupon?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply your coupon codes here."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:42
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:62
+msgid "Order Summary"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:42
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:45
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "My account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53 woocommerce/checkout/thankyou.php:98
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:81
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid "From your account dashboard you can view your "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid "recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid ", manage your "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid "shipping and billing addresses"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid " and "
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:40
+msgid "edit your password and account details"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Use your Email address or username to login to your account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "Use your Email address to create your account"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:37
+msgid "Reset your password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:42
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:39
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:37
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:40
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:38
+#: woocommerce/myaccount/my-address.php:43
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:39
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:52
+msgid ""
+"The following addresses will be used on the checkout page by default. Click "
+"on the pencil icon to edit you Address."
+msgstr ""
+
+#: woocommerce/product-searchform.php:37
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:42
+msgid "N/A"
+msgstr ""
