@@ -500,6 +500,11 @@ elseif (isset($tab_main_type) && $tab_main_type == "slcr_tab") {
         $result['value'];
         $htmldata = $result['html'];
         $htmldata = str_replace('data-vc-tabs data-vc-container=".vc_tta"', '', $htmldata);
+        if (mb_detect_encoding($result['text'], "auto")=="UTF-8") { 
+           $result['text'] = utf8_decode($result['text']);
+        } else { 
+           $result['text'] = $result['text'];
+        }
         $realhtml = $result['text'];
         if (mb_strpos($htmldata, "vc_tta-icon") !== false) {
             $pieces = explode("vc_tta-icon", $htmldata);
