@@ -14,3 +14,23 @@
 .nav__main .nav__list a {
   text-transform: uppercase;
 }
+@media (max-width: 1199px) {
+  .services_tab.tabbed_section .tabs li {
+    padding: 15px 12px;
+  }
+}
+@media (max-width: 992px) and (min-width: 480px) {
+  .services_tab.tabbed_section .tabs li {
+    width: 50%;
+    padding: 15px 12px;
+  }
+}
+.services_tab .tabbed_content {
+  padding: 20px 0;
+}
+.services_tab .service__box {
+  margin-bottom: 0;
+}
+.services_tab .service__box:hover {
+  transform: none;
+}
