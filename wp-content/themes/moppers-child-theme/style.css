@@ -40,6 +40,9 @@
 .header_main .service__box .service__image {
   height: 260px;
 }
+.service__box.bkgr-topY-100 .service__image {
+  background-position: center top -100px;
+}
 .services_tab .service__box .service__info {
   background-color: #ffffff;
 }
