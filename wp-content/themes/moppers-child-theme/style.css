@@ -11,20 +11,12 @@
  Domain Path: /languages
 */
 
+/* Main navigation */
 .nav__main .nav__list a {
   text-transform: uppercase;
 }
-@media (max-width: 1199px) {
-  .services_tab.tabbed_section .tabs li {
-    padding: 15px 12px;
-  }
-}
-@media (max-width: 992px) and (min-width: 480px) {
-  .services_tab.tabbed_section .tabs li {
-    width: 50%;
-    padding: 15px 12px;
-  }
-}
+
+/* Main page header tabs section */
 .services_tab.tabbed_1 .tabs {
   border-bottom: none;
 }
@@ -45,4 +37,74 @@
 }
 .services_tab .service__box .service__info {
   background-color: #ffffff;
+}
+@media (max-width: 1199px) {
+  .services_tab.tabbed_section .tabs li {
+    padding: 15px 12px;
+  }
+}
+@media (max-width: 992px) and (min-width: 480px) {
+  .services_tab.tabbed_section .tabs li {
+    width: 50%;
+    padding: 15px 12px;
+  }
+}
+
+/* Pricing page pricing table */
+.my-pricing-title {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top: 1px solid #eeeeee;
+  border-left: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+}
+.my-pricing.my-pricing-left {
+  border-bottom-left-radius: 5px;
+}
+.my-pricing.my-pricing-right {
+  border-bottom-right-radius: 5px;
+}
+.my-pricing.my-pricing-left > .vc_column-inner {
+  padding-left: 50px;
+  padding-right: 30px;
+  border-bottom-left-radius: 5px;
+  border-left: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+.my-pricing.my-pricing-right > .vc_column-inner {
+  padding-left: 30px;
+  padding-right: 50px;
+  border-bottom-right-radius: 5px;
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+.my-pricing .pricing-features {
+  padding: 0;
+  list-style-type: none;
+}
+.my-pricing .pricing-features li {
+  margin-bottom: 0px;
+  display: flex;
+}
+.pricing__04 .pricing-features .true-icon,
+.my-pricing .pricing-features .true-icon {
+  flex-shrink: 0;
+  height: 21px;
+  width: 21px;
+  margin-top: 5px;
+  border: 2px solid;
+  border-radius: 50%;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: #6382f7;
+}
+.pricing__04 .feature-info,
+.my-pricing p.feature-info {
+  margin-left: 24px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+.my-pricing p.feature-info span {
+  font-size: 18px;
 }
