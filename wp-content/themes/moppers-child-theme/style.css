@@ -51,47 +51,55 @@
 }
 
 /* Pricing page pricing table */
-.my-pricing-title {
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+.pricing-list-title {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.pricing-list-title > .vc_column-inner {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
   border-top: 1px solid #eeeeee;
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
 }
-.my-pricing.my-pricing-left {
-  border-bottom-left-radius: 5px;
+.pricing-list.pricing-list-left {
+  padding-left: 15px;
+  border-bottom-left-radius: 8px;
 }
-.my-pricing.my-pricing-right {
-  border-bottom-right-radius: 5px;
+.pricing-list.pricing-list-right {
+  padding-right: 15px;
+  border-bottom-right-radius: 8px;
 }
-.my-pricing.my-pricing-left > .vc_column-inner {
+.pricing-list.pricing-list-left > .vc_column-inner {
   padding-left: 50px;
   padding-right: 30px;
-  border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 8px;
   border-left: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
 }
-.my-pricing.my-pricing-right > .vc_column-inner {
+.pricing-list.pricing-list-right > .vc_column-inner {
   padding-left: 30px;
   padding-right: 50px;
-  border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 8px;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
 }
-.my-pricing .pricing-features {
+.pricing-list .pricing-features,
+.pricing-box .pricing-features {
   padding: 0;
   list-style-type: none;
 }
-.my-pricing .pricing-features li {
+.pricing-list .pricing-features li,
+.pricing-box .pricing-features li {
   margin-bottom: 0px;
   display: flex;
 }
-.pricing__04 .pricing-features .true-icon,
-.my-pricing .pricing-features .true-icon {
+.pricing-list .pricing-features .true-icon,
+.pricing-box .pricing-features .true-icon {
   flex-shrink: 0;
   height: 21px;
   width: 21px;
-  margin-top: 5px;
+  margin-top: 2px;
   border: 2px solid;
   border-radius: 50%;
   font-size: 12px;
@@ -99,12 +107,42 @@
   text-align: center;
   color: #6382f7;
 }
-.pricing__04 .feature-info,
-.my-pricing p.feature-info {
+.pricing-list p.feature-info,
+.pricing-box .feature-info,
+.pricing-box li .feature-info:last-of-type {
   margin-left: 24px;
   margin-bottom: 10px;
   font-size: 16px;
+  line-height: 1.3;
 }
-.my-pricing p.feature-info span {
+.pricing-list p.feature-info span,
+.pricing-box p.feature-info span {
   font-size: 18px;
+}
+@media (max-width: 767px) {
+  .pricing-list.pricing-list-left {
+    padding-right: 15px;
+    border-bottom-left-radius: 0;
+  }
+  .pricing-list.pricing-list-right {
+    padding-left: 15px;
+    border-bottom-right-radius: 8px;
+    border-bottom-LEFT-radius: 8px;
+  }
+  .pricing-list.pricing-list-left > .vc_column-inner {
+    padding-left: 30px;  
+    border-bottom-left-radius: 0;
+    border-right: 1px solid #eeeeee;
+    border-bottom: 0;
+  }
+  .pricing-list.pricing-list-right > .vc_column-inner {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 0;
+    border-bottom-left-radius: 8px;
+    border-left: 1px solid #eeeeee;
+  }
+  .pricing-list.pricing-list-left .wpb_content_element {
+    margin-bottom: 0;
+  }
 }
