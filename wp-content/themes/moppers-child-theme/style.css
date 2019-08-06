@@ -16,6 +16,11 @@
   text-transform: uppercase;
 }
 
+/* Fake icon to get font-awesome library on the page */
+.icon-none {
+  display: none!important;
+}
+
 /* Main page header tabs section */
 .services_tab.tabbed_1 .tabs {
   border-bottom: none;
@@ -84,6 +89,12 @@
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
 }
+.pricing-box-wrapper > .vc_column-inner > .wpb_wrapper {
+  height: 100%;
+}
+.pricing-box {
+  height: 100%;
+}
 .pricing-list .pricing-features,
 .pricing-box .pricing-features {
   padding: 0;
@@ -145,4 +156,9 @@
   .pricing-list.pricing-list-left .wpb_content_element {
     margin-bottom: 0;
   }
+}
+
+/* Cost estimate form fixes */
+.wpcf7 textarea.estimate-textarea {
+  height: 130px;
 }
