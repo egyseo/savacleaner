@@ -162,3 +162,10 @@
 .wpcf7 textarea.estimate-textarea {
   height: 130px;
 }
+
+/* Page header breadcrumbs */
+@media (max-width: 767px) {
+  .page__header .content {
+    padding: 20px 0;
+  }
+}
