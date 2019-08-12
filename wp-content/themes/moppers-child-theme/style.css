@@ -161,6 +161,7 @@
 /* Cost estimate form fixes */
 .wpcf7 textarea.estimate-textarea {
   height: 130px;
+  line-height: 1.2;
 }
 
 /* Page header breadcrumbs */
